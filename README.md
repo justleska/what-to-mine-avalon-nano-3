@@ -64,3 +64,16 @@ Estimated coins in a day : 2.016
 USD in a day: 1.72 $
 
 Block reward in USD: 14.70 $
+
+## eCash
+
+Time to hit a block : 347.22222222222223 days
+
+You will hit a block every : 8333.333333333334 hours
+
+Estimated coins in a day : 5219.999999999999
+
+USD in a day: 0.18 $
+
+Block reward in USD: 62.37 $
+
