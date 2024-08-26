@@ -55,15 +55,15 @@ Block reward in USD: 0.0600 $
 
 ## Peercoin
 
-Time to hit a block : 17.36111111111111 days
+Time to hit a block : 78.125 days
 
-You will hit a block every : 416.66666666666663 hours
+You will hit a block every : 1875 hours
 
-Estimated coins in a day : 2.016
+Estimated coins in a day : 0.45529600000000003
 
-USD in a day: 1.72 $
+USD in a day: 0.19 $
 
-Block reward in USD: 14.70 $
+Block reward in USD: 14.92 $
 
 ## eCash
 
