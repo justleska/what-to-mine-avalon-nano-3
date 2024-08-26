@@ -5,17 +5,21 @@ What should you mine with the Caan Avalon Nano 3? Find out here!
 
 ## Bitcoin
 
-Your hashrate	4.00 TH/s
+Time to hit a block : 1124584.4791666667 days
 
-Network hashrate	637.00 EH/s
+You will hit a block every : 26990027.5 hours
 
-Block interval	10 minutes
+Estimated coins in a day : 0.0000027788041342306894
 
-Chance per block	1 in 159250000 chance
+Chance per block: 1 in 159250000 chance
 
-Chance per year	1 in 3072 chance
+Chance per year: 1 in 3072 chance
 
-Reward: 6.25 BTC
+Reward: 3.125 BTC
+
+USD in a day: 0.18$
+
+Block reward in USD: 199724.47 $
 
 ## Bitcoin Cash
 
@@ -25,9 +29,9 @@ You will hit a block every : 139701.25 hours
 
 Estimated coins in a day : 0.0005377188822576748
 
-Chance per block	1 in 885000 chance
+Chance per block: 1 in 885000 chance
 
-Chance per year	1 in 17 chance
+Chance per year: 1 in 17 chance
 
 USD in a day: 0.19 $
 
