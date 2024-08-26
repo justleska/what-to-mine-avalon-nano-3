@@ -42,13 +42,13 @@ Block reward in USD: 281.75 $
 
 ## Litecoin Cash
 
-Time to hit a block : 0.012152777777777778 days
+Time to hit a block : 0.11140046296296297 days
 
-You will hit a block every : 0.2916666666666667 hours
+You will hit a block every : 2.673611111111111 hours
 
-Estimated coins in a day : 7714.285714285714
+Estimated coins in a day : 841.5584415584415
 
-USD in a day: 32.93 $
+USD in a day: 3.23 $
 
 Block reward in USD: 0.3264375 $
 
