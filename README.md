@@ -19,15 +19,19 @@ Reward: 6.25 BTC
 
 ## Bitcoin Cash
 
-Your hashrate	4.00 TH/s
+Time to hit a block : 5820.885416666667 days
 
-Network hashrate	3.54 EH/s
+You will hit a block every : 139701.25 hours
 
-Block interval	10 minutes
+Estimated coins in a day : 0.0005377188822576748
 
 Chance per block	1 in 885000 chance
 
 Chance per year	1 in 17 chance
+
+USD in a day: 0.19 $
+
+Block reward in USD: 1114.23 $
 
 ## Bitcoin SV
 
