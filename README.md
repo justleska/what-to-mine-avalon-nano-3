@@ -31,15 +31,15 @@ Chance per year	1 in 17 chance
 
 ## Bitcoin SV
 
-Time to hit a block : 134.20138888888889 days
+Time to hit a block : 1149.9131944444443 days
 
-You will hit a block every : 3220.833333333333 hours
+You will hit a block every : 27597.916666666664 hours
 
-Estimated coins in a day : 0.02328589909443726
+Estimated coins in a day : 0.0054351928738582325
 
-USD in a day: 1.05 $
+USD in a day: 0.25 $
 
-Block reward in USD: 281.75 $
+Block reward in USD: 286.42 $
 
 ## Litecoin Cash
 
