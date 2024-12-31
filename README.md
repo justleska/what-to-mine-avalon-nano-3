@@ -1,4 +1,4 @@
-#**THIS WILL CHANGE OVER TIME**
+#**THIS WILL CHANGE OVER TIME; STOPPED UPDATING**
 
 # What to mine with Avalon Nano 3 (solo mining only)
 What should you mine with the Caan Avalon Nano 3? Find out here!
